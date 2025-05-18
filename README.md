@@ -1,2 +1,2 @@
-# Data-Science-Course-Assignments
-This repository includes course assignments.
+# Data-Science-Projects
+This repository includes data science projects.
