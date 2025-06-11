@@ -1,2 +1,2 @@
-# Data-Science-Projects
-This repository includes data science projects.
+# Winning Space Race with Data Science
+SpaceX has gained global recognition for achieving a series of historic milestones. It is the only private company to successfully return a spacecraft from low-Earth orbit, first accomplishing this feat in December 2010. SpaceX advertises Falcon 9 rocket launches at a cost of $62 million, significantly lower than other providers, whose prices can exceed $165 million per launch. Much of this cost reduction is due to SpaceX’s ability to reuse the rocket’s first stage. Therefore, if we can predict whether the first stage will land successfully, we can estimate the cost of a launch. This insight can be valuable for other companies looking to compete with SpaceX in bidding for rocket launches. As a data scientist, I will develop a machine learning model to predict the landing outcome of the first stage using data collected from publicly available sources.
